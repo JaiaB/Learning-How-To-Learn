@@ -1,4 +1,5 @@
 # Learning How to Learn
+! [] (preview-first-project.gif)
 ### A webpage using **HTML**, **CSS** and **BEM Methodology**
 
 Hi! My name is **Jaia** and I'm a UX/UI & Product Designer who loves Front End Development.
