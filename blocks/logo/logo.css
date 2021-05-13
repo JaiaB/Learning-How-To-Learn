@@ -1,0 +1,12 @@
+@import url("./_place/logo_place_header.css");
+@import url("./_place/logo_place-footer.css");
+
+.logo {
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: transform .2s ease-in-out;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+}

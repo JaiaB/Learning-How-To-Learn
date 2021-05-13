@@ -1,0 +1,14 @@
+.resources__logo {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 270px;
+  height: 38px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: transform .2s ease-out;
+}
+
+.resources__logo:hover {
+  transform: scale(1.5);
+}
